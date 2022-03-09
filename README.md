@@ -5,7 +5,7 @@ App that demonstrates the use of AlarmManager API to remind users of specific ta
 
 Select a task (hold click) | specify date | specify time
 :-------------------------:|:------------:|:-----------:
-<img src="https://user-images.githubusercontent.com/90382113/157540117-9e2e1d7b-0a90-4967-b84c-a1d0f75e9224.png" width="360" height="740"> | <img src="https://user-images.githubusercontent.com/90382113/157540891-314ddbf1-cb18-4b6e-8600-9d76c4248446.png" width="360" height="740"> | <img src="https://user-images.githubusercontent.com/90382113/157542119-768467f5-4cab-4055-8229-9722ec541584.png" width="360" height="740">
+<img src="https://user-images.githubusercontent.com/90382113/157540117-9e2e1d7b-0a90-4967-b84c-a1d0f75e9224.png" width="360" height="600"> | <img src="https://user-images.githubusercontent.com/90382113/157540891-314ddbf1-cb18-4b6e-8600-9d76c4248446.png" width="360" height="600"> | <img src="https://user-images.githubusercontent.com/90382113/157542119-768467f5-4cab-4055-8229-9722ec541584.png" width="360" height="600">
 
 # Reminders fires off at sepecified time:
 
